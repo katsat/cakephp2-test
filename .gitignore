@@ -1,0 +1,6 @@
+.vagrant
+Berksfile.lock
+/cookbooks
+composer.phar
+Vender/
+Plugin/
